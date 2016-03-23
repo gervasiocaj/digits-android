@@ -36,7 +36,7 @@
     <string name="dgts__image_header_description">Cabeçalho da imagem para acesso</string>
     <string name="dgts__invalid_email">E-mail inválido. Tente novamente</string>
     <string name="dgts__login_digits_text">Usar meu número de celular</string>
-    <string name="dgts__network_error">Por favor, verifique novamente sua rede e tente novamente.</string>
+    <string name="dgts__network_error">Por favor, verifique sua rede e tente novamente.</string>
     <string name="dgts__not_now">Agora não</string>
     <string name="dgts__okay">OK</string>
     <string name="dgts__phone_number_edit_hint">Seu número</string>
